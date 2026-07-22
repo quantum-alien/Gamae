@@ -28,7 +28,7 @@ A simple and interactive Ping Pong game built using **Python** and the **Kivy** 
 ping-pong-game/
 │
 ├── main.py          # Main application entry point
-├── pong.kv          # Kivy UI layout
+├── myach.kv          # Kivy UI layout
 ├── README.md        # Project documentation
 └── assets/          # Images, sounds (optional)
 ```
