@@ -25,7 +25,7 @@ A simple and interactive Ping Pong game built using **Python** and the **Kivy** 
 ## Project Structure
 
 ```
-ping-pong-game/
+ping-pong/
 │
 ├── main.py          # Main application entry point
 ├── myach.kv          # Kivy UI layout
@@ -40,8 +40,8 @@ ping-pong-game/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ping-pong-game.git
-cd ping-pong-game
+git clone https://github.com/your-username/ping-pong.git
+cd ping-pong
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
@@ -119,16 +119,6 @@ python main.py
 - Mobile support
 
 ---
-
-## Screenshots
-
-Add screenshots of the game here.
-
-```
-screenshots/
-├── gameplay.png
-└── menu.png
-```
 
 ---
 
