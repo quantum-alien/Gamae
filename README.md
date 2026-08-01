@@ -40,7 +40,7 @@ ping-pong/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ping-pong.git
+git clone https://github.com/quantum-alien/ping-pong.git
 cd ping-pong
 ```
 
